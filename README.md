@@ -84,7 +84,7 @@ The codebase is ready for rapid deployment and customization.
 ## Contact Information
 
 **Email:** achiandoomollo64@gmail.com
-
+**Whatsapp:** +254791655861
 **Fiverr:** https://www.fiverr.com/s/e6q8AY4
 
 Available for project discussion and demo presentation.
